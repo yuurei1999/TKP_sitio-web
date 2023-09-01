@@ -3,10 +3,14 @@ extra_css:
   - stylesheets/extra.css
 
 theme:
+  favicon: assets/img/favicon_fox.ico
+  logo: assets/img/fox-origami-paper-orange.svg
   features:
     - search.suggest
     - search.highlight
     - navigation.sections
+    - navigation.expand
+    - navigation.instant
 
   name: material
   custom_footer:
@@ -37,6 +41,10 @@ nav:
       - 'Beca Monbukagakusho (MEXT)': 'mext/intro.md'
       - 'Inglés': 'mext/english.md'
       - 'Matemáticas': 'mext/matematicas.md'
+  - 'Japonés':
+      - 'JLPT':
+          - 'Nivel N4': 'jlpt/jlpt-n4.md'
+        
   - 'Recursos': 'recursos.md'
   - 'Acerca de': 'about.md'
   
