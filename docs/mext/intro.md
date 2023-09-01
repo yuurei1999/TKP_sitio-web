@@ -12,15 +12,14 @@ La beca mext es un programa de becas del gobierno japonés que ofrece la oportun
 * Maestros en Servicio Activo. 
 
 
-:::note Nota
-Los programas mencionados arriba son los que se ofrecen en **México**, para conocer los programas que se ofrecen en tu país visita la página oficial de la embajada de Japón en tu país.
-:::
+!!!note "Nota"
+    Los programas mencionados arriba son los que se ofrecen en **México**, para conocer los programas que se ofrecen en tu país visita la página oficial de la embajada de Japón en tu país.
 
 ## Obtención de la beca Specialized Training College
 El objetivo de este sitio web es compartir cómo fue mi preparación para los examenes de esta categoría  ya que esta fue la beca que solicité.
-:::note Nota
-NO hay ningún temario oficial y tampoco se hará mención de contenido (examenes de años anteriores) que no haya sido publicado por MEXT. 
-:::
+!!!note "Nota"
+    NO hay ningún temario oficial y tampoco se hará mención de contenido (examenes de años anteriores) que no haya sido publicado por MEXT. 
+
 
 ## Links importantes (México)
 Haz clic en cada enlace para ser redirigido.
