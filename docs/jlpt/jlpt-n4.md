@@ -5,9 +5,10 @@ Para prepararte adecuadamente para el examen, te sugiero tener un libro principa
 
 ### Libro principal
 Como libro principal te recomiendo el libro **Minna no Nihongo Shokyu II Honsatsu** o en su defecto el libro **Genki: An Integrated Course in Elementary Japanese II**. Ambos libros son buenos y te proporcionarán una base sólida para aprender japonés.
-:::note Nota
-Para poder utilizar cualquiera de estos libros, debes haber completado los dos libros anteriores (Minna no Nihongo Shokyu I Honsatsu o Genki: An Integrated Course in Elementary Japanese I).
-::: 
+
+!!!note "Nota"
+    Para poder utilizar cualquiera de estos libros, debes haber completado los dos libros anteriores (Minna no Nihongo Shokyu I Honsatsu o Genki: An Integrated Course in Elementary Japanese I).
+
 
 Si eres de México podrías encontrar estos libros en la librería NBK, pero si no vives en México, puedes comprarlos en Amazon o en la página oficial de la editorial.
 
