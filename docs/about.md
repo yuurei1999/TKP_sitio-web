@@ -27,7 +27,7 @@ En este apartado escribiré el nombre de las películas, series, anime, manga y 
 ### Anime
 * イジらないで、長瀞さん (T1)
 * スキップとローファー (T1)
-
+* ゾンビになるまでにしたい100のこと (T1)
 ### Manga
 * さよなら絵梨
 * ルックバック
