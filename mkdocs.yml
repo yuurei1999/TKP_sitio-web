@@ -5,7 +5,7 @@ extra_css:
   - stylesheets/extra.css
 
 theme:
-  favicon: assets/img/favicon_fox.ico
+  favicon: ../assets/img/favicon_fox.ico
   logo: assets/img/fox-origami-paper-orange.svg
   features:
     - search.suggest
