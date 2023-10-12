@@ -27,7 +27,7 @@ Ahora, seguramente te estás preguntando: ¿Para qué me sirve saber esto? Bueno
 ### Temario NO oficial creado por la comunidad
 El siguiente temario yo lo encontré en una publicación de Reddit y lo comparto aquí para darle crédito a su creador y para que tengas una idea de los temas que debes estudiar para el examen de matemáticas de la beca MEXT.
 
-* [Temario](..assets/files/Detailed_MEXT_Undergrad_Syllabus.pdf){:target="_blank"} - Click para descargar el temario en PDF
+* [Temario](../assets/files/Detailed_MEXT_Undergrad_Syllabus.pdf){:target="_blank"} - Click para descargar el temario en PDF
 
 
 ### Temario del sistema educativo de Japón  (Esta sección se encuentra en construcción)
