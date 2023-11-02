@@ -24,6 +24,7 @@ En este apartado escribiré el nombre de las películas, series, anime, manga y 
 * コタローは一人暮らし
 * 初恋
 * GTO
+* 池袋ウエストゲートパーク
 ### Anime
 * イジらないで、長瀞さん (T1)
 * スキップとローファー (T1)
