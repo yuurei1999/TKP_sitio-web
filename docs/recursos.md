@@ -37,8 +37,8 @@
 * [Animelon](https://animelon.com/){target="_blank"} - Sitio web para ver anime con subtítulos en japonés.
 * [Kitsunekko](https://kitsunekko.net/){target="_blank"} - Sitio web para descargar subtítulos en japonés. Normalmente esto solo es útil cuando queremos agregar subtítulos a un anime raw (sin subtítulos) que tenemos en nuestra computadora.
 * [Nyaa](https://nyaa.si/){target="_blank"} - Este sitio web está repleto de torrents para descargar anime, manga, light novels y live actions. Posiblemente algunos anime o películas solo los encuentres sin subtítulos y tendremos que acudir a kitsunekko para descargar los subtítulos en japonés.
-* J-Drama Google Drive Folder: Carpeta de Google Drive para descargar dorama japoneses raw. Contraseña para descomprimir archivos: bagikuy.
-* jpsubbers: Sitio web para descargar subtitulos en japonés para dorama.
-* Itazuraneko: La biblioteca más grande para descargar novelas o manga.
+* [J-Drama Google Drive Folder](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw){target="_blank"} - Carpeta de Google Drive para descargar dorama japoneses raw. Contraseña para descomprimir archivos: bagikuy.
 * [Bookwalker](https://bookwalker.jp/top/?pid=FcV8y7){target="_blank"} - Sitio web para comprar manga en japonés.
-* Amazon Japan: Comprar manga / novelas en japonés.
+* Amazon Japan: Comprar manga / novelas en japonés. 
+
+how
