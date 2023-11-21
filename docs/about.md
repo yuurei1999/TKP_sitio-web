@@ -25,6 +25,7 @@ En este apartado escribiré el nombre de las películas, series, anime, manga y 
 * 初恋
 * GTO
 * 池袋ウエストゲートパーク
+* 木更津キャッツアイ
 ### Anime
 * イジらないで、長瀞さん (T1)
 * スキップとローファー (T1)
