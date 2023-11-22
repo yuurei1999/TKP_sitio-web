@@ -20,6 +20,7 @@ En este apartado escribiré el nombre de las películas, series, anime, manga y 
 * 君に届け
 * ビリギャル
 * ゾンビになるまでにしたい100のこと
+* パーフェクトブル
 ### Series
 * コタローは一人暮らし
 * 初恋
