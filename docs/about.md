@@ -21,12 +21,15 @@ En este apartado escribiré el nombre de las películas, series, anime, manga y 
 * ビリギャル
 * ゾンビになるまでにしたい100のこと
 * パーフェクトブル
+* シン・仮面ライダー
+* シン・ウルトラマン
 ### Series
 * コタローは一人暮らし
 * 初恋
-* GTO
+* GTO (1998)
 * 池袋ウエストゲートパーク
 * 木更津キャッツアイ
+* 彼女、お借りします
 ### Anime
 * イジらないで、長瀞さん (T1)
 * スキップとローファー (T1)
@@ -34,3 +37,4 @@ En este apartado escribiré el nombre de las películas, series, anime, manga y 
 ### Manga
 * さよなら絵梨
 * ルックバック
+* サンダー3 (V1)
