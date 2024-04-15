@@ -34,7 +34,9 @@ En este apartado escribiré el nombre de las películas, series, anime, manga y 
 * イジらないで、長瀞さん (T1)
 * スキップとローファー (T1)
 * ゾンビになるまでにしたい100のこと (T1)
+* ゆびさきと恋々 (T1)
 ### Manga
 * さよなら絵梨
 * ルックバック
-* サンダー3 (V1)
+* サンダー3 (V1-V5)
+* オレンジ (V1-V3)
