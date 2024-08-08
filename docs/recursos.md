@@ -16,7 +16,6 @@
 
 ### Canales de YouTube
 * [En japonés con Rafy](https://www.youtube.com/c/EnJapon%C3%A9sConRafy){:target="_blank"}
-* [Japonés con Lily](https://www.youtube.com/c/Japon%C3%A9sconLily){:target="_blank"}
 * [※ Japanese Ammo with Misa](https://www.youtube.com/c/JapaneseAmmowithMisa){:target="_blank"}
 * [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ){:target="_blank"}
 * [Masa Sensei](https://www.youtube.com/c/MasaSensei){:target="_blank"}
@@ -27,6 +26,12 @@
 * [三本塾 -Sambon Juku-](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw){:target="_blank"}
 * [Necota's Japanese Language Classroom](https://www.youtube.com/channel/UCRueOUh7I2IHP74irBGf1mA){:target="_blank"}
 * [Yoshiko's japanese class.よしこの日本語教室](https://www.youtube.com/channel/UCmGDPdyye0U6bJ0npDdUIfw){:target="_blank"}
+
+## Subtitulos en japonés
+* [Kitsunekko](https://kitsunekko.net/){:target="_blank"} - Sitio web para descargar subtítulos en japonés, hay pocos subs para live actions.
+* [Jimaku](https://jimaku.cc/){:target="_blank"} - Sitio web para descargar subtítulos en japonés, tanto para anime como para live actions (Kitsunekko contiene menos subs para live actions).
+* [Repositorio de GitHub](https://github.com/eurusdagr/Japanese-Movies-Subtitles){:target="_blank"} - Repositorio de github con subtítulos de películas japonesas categorizadas por director.
+
 
 ## Comunidades para hacer preguntas sobre el idioma
 * [LearnJapanese (reddit)](https://www.reddit.com/r/LearnJapanese/){:target="_blank"}

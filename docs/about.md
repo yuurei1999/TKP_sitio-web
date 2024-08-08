@@ -39,4 +39,4 @@ En este apartado escribiré el nombre de las películas, series, anime, manga y 
 * さよなら絵梨
 * ルックバック
 * サンダー3 (V1-V5)
-* オレンジ (V1-V3)
+* オレンジ (V1-V5)
