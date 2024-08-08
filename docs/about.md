@@ -23,6 +23,9 @@ En este apartado escribiré el nombre de las películas, series, anime, manga y 
 * パーフェクトブル
 * シン・仮面ライダー
 * シン・ウルトラマン
+* タンポポ
+* 怪物
+* バトル・ロワイアル
 ### Series
 * コタローは一人暮らし
 * 初恋
@@ -30,13 +33,20 @@ En este apartado escribiré el nombre de las películas, series, anime, manga y 
 * 池袋ウエストゲートパーク
 * 木更津キャッツアイ
 * 彼女、お借りします
+* 不適切にもほどがある！
+* Tiger & Dragon
 ### Anime
-* イジらないで、長瀞さん (T1)
-* スキップとローファー (T1)
-* ゾンビになるまでにしたい100のこと (T1)
-* ゆびさきと恋々 (T1)
+* イジらないで、長瀞さん (S1)
+* スキップとローファー (S1)
+* ゾンビになるまでにしたい100のこと (S1)
+* ゆびさきと恋々 (S1)
+* Ping Pong the Animation
+* 葬送のフリーレン (S1)
 ### Manga
 * さよなら絵梨
 * ルックバック
 * サンダー3 (V1-V5)
 * オレンジ (V1-V5)
+* 町田君の世界 (V1-V4)
+* GIGANT (V1-V2)
+  
