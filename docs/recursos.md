@@ -27,21 +27,8 @@
 * [Necota's Japanese Language Classroom](https://www.youtube.com/channel/UCRueOUh7I2IHP74irBGf1mA){:target="_blank"}
 * [Yoshiko's japanese class.よしこの日本語教室](https://www.youtube.com/channel/UCmGDPdyye0U6bJ0npDdUIfw){:target="_blank"}
 
-## Subtitulos en japonés
-* [Kitsunekko](https://kitsunekko.net/){:target="_blank"} - Sitio web para descargar subtítulos en japonés, hay pocos subs para live actions.
-* [Jimaku](https://jimaku.cc/){:target="_blank"} - Sitio web para descargar subtítulos en japonés, tanto para anime como para live actions (Kitsunekko contiene menos subs para live actions).
-* [Repositorio de GitHub](https://github.com/eurusdagr/Japanese-Movies-Subtitles){:target="_blank"} - Repositorio de github con subtítulos de películas japonesas categorizadas por director.
-
 
 ## Comunidades para hacer preguntas sobre el idioma
 * [LearnJapanese (reddit)](https://www.reddit.com/r/LearnJapanese/){:target="_blank"}
 * [Japanese Language Stack Exchange](https://japanese.stackexchange.com/){:target="_blank"}
 * [HiNative](https://hinative.com/){:target="_blank"} - Es una plataforma en la que puedes hacer y responder preguntas sobre cultura o idiomas. Lo mejor es que tus preguntas pueden ser respondidas directamente por personas nativas.
-
-## Recursos para inmersión
-* [Animelon](https://animelon.com/){target="_blank"} - Sitio web para ver anime con subtítulos en japonés.
-* [Kitsunekko](https://kitsunekko.net/){target="_blank"} - Sitio web para descargar subtítulos en japonés. Normalmente esto solo es útil cuando queremos agregar subtítulos a un anime raw (sin subtítulos) que tenemos en nuestra computadora.
-* [Nyaa](https://nyaa.si/){target="_blank"} - Este sitio web está repleto de torrents para descargar anime, manga, light novels y live actions. Posiblemente algunos anime o películas solo los encuentres sin subtítulos y tendremos que acudir a kitsunekko para descargar los subtítulos en japonés.
-* [J-Drama Google Drive Folder](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw){target="_blank"} - Carpeta de Google Drive para descargar dorama japoneses raw. Contraseña para descomprimir archivos: bagikuy.
-* [Bookwalker](https://bookwalker.jp/top/?pid=FcV8y7){target="_blank"} - Sitio web para comprar manga en japonés.
-* Amazon Japan: Comprar manga / novelas en japonés. 
